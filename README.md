@@ -9,6 +9,6 @@ I would love to be *perfect* at it
 3. I need to learn
 4. I need to practise again
 It is
--hard
--overwhelming
+- hard
+- overwhelming
 - time-consuming
